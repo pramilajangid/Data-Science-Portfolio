@@ -36,17 +36,17 @@ Data science projects completed by me for academic, self learning, and hobby pur
         
 ## Micro-projects
 
-- **ML with Logistic Regression**
+- **<a href="https://github.com/pramilajangid/ML-Algorithms-Python/tree/master/Classification/Logistic-Regression">ML with Logistic Regression</a>**
 
-- **ML with LDA, QDA, RDA**
+- **<a href="https://github.com/pramilajangid/ML-Algorithms-Python/tree/master/Classification/LDA-QDA-RDA">ML with LDA, QDA, RDA</a>**
 
-- **Understanding Bias and Variance**
+- **<a href="https://github.com/pramilajangid/ML-Algorithms-Python/blob/master/Overfitting-Underfitting/Overfitting-Underfitting-maths.ipynb">Understanding Bias and Variance</a>**
 
-- **Dimensionality Reduction Methodologies- PCA, LDA**
+- **Dimensionality Reduction Methodologies- <a href="https://github.com/pramilajangid/ML-Algorithms-Python/tree/master/DimensionalityReduction/PCA">PCA</a>, <a href="https://github.com/pramilajangid/ML-Algorithms-Python/tree/master/DimensionalityReduction/LDA">LDA</a>**
 
-- **ML with Naive Bayes Classifier**
+- **<a href="https://github.com/pramilajangid/ML-Algorithms-Python/tree/master/Classification/Naive-Bayes">ML with Naive Bayes Classifier</a>**
 
-- **CARTs - Decision Trees, Random Forrests and Boosting**
+- **<a href="https://github.com/pramilajangid/ML-Algorithms-Python/tree/master/Regression-And-Classification/DecisionTress-RandomForrest-Boosting">CARTs - Decision Trees, Random Forrests and Boosting</a>**
 
 *Tools: Python, Latex*
 
