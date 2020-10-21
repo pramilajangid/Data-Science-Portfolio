@@ -15,7 +15,7 @@ Data science projects completed by me for academic, self learning, and hobby pur
        
         - **<a href="https://drive.google.com/drive/folders/1-PW14qYiJlMPVTrrH2dB625H-bjdjRRi?usp=sharing">IMDB Movie Review Dataset</a>**
         
-        - **<a href='https://www.kaggle.com/pramilajangid/disaster-tweets'>Disaster Tweets - real or not? Dataset</a>**
+        - **<a href='https://www.kaggle.com/pramilajangid/disaster-tweets-play1'>Disaster Tweets - real or not? Dataset</a>**
         
     - **Large Sized Dataset**
         
