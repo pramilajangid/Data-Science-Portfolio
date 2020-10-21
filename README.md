@@ -22,7 +22,7 @@ Data science projects completed by me for academic, self learning, and hobby pur
 *Tools: Spacy, NLTK*
 
 
-## Cleaning, Analysis and Visualization
+## Cleaning, pre-process, analysis and visualization
     
 - **<a href='https://github.com/pramilajangid/Self-Practice/tree/master/Dataset-2(Titanic)/titanic'>Titanic Dataset - Exploratory Analysis</a>**
 
@@ -47,6 +47,8 @@ Data science projects completed by me for academic, self learning, and hobby pur
 - **<a href="https://github.com/pramilajangid/ML-Algorithms-Python/tree/master/Classification/Naive-Bayes">ML with Naive Bayes Classifier</a>**
 
 - **<a href="https://github.com/pramilajangid/ML-Algorithms-Python/tree/master/Regression-And-Classification/DecisionTress-RandomForrest-Boosting">CARTs - Decision Trees, Random Forrests and Boosting</a>**
+
+- **<a href="https://github.com/pramilajangid/Assignments-ML/tree/master/Preprocessing">Synthetic data generation using SMOTE</a>**
 
 *Tools: Python, Latex*
 
