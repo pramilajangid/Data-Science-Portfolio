@@ -20,7 +20,7 @@ Data science projects completed by me for academic, self learning, and hobby pur
 
 ## Cleaning, pre-process, analysis and visualization
     
-- **<a href='https://github.com/pramilajangid/Self-Practice/tree/master/Dataset-2(Titanic)/titanic'>Titanic Dataset - Exploratory Analysis</a>**
+- **<a href='https://github.com/pramilajangid/Self-Practice/tree/master/Dataset-2(Titanic)'>Titanic Dataset - Exploratory Analysis</a>**
 
 - **<a href='https://github.com/pramilajangid/Self-Practice/tree/master/Dataset-1(BigMartSales%20Data)'>Bigmart Sales Dataset</a>**
 
