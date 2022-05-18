@@ -1,7 +1,15 @@
 # Data-Science-Portfolio
 Data science projects completed by me for academic, self learning, and hobby purposes.
 
+## Computer Vision
 
+- **GANs**
+    - **<a href="https://github.com/pramilajangid/MelanomaDetection_using_SemiSupervisedLearning">Semi-supervised learning for Melanoma Detection</a>**
+    - **<a href="https://github.com/pramilajangid/Increase_Image_Resolution">Image resolution improvement</a>**
+- **Object Detection**
+    - **<a href="https://github.com/pramilajangid/ObjectDetection">Object Detection using YOLO in images and videos</a>**
+- **Classification**
+    - **<a href="https://drive.google.com/file/d/1EgtGfBaP0JRjTVYvwxMlVl3niO_XCIQr/view?usp=sharing">Font Recognition using RESNET50</a>**
 
 ## Natural Language Processing
 
