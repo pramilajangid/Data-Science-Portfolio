@@ -1,5 +1,10 @@
 # Data-Science-Portfolio
-Data science projects completed by me for academic, self learning, and hobby purposes.
+
+# Professional
+    1. <a href="https://github.com/pramilajangid/Work-RenewPower">Renew Power (Jun 2021 - Mar 2022) as Machine Learning Engineer</a>
+    2. <a href="">Hewlett Packard Enterprises (Jun 2022 - Ongoing) as Data Scientist</a>
+    
+# Self
 
 ## Computer Vision
 
@@ -54,6 +59,6 @@ Data science projects completed by me for academic, self learning, and hobby pur
 
 - **<a href="https://github.com/pramilajangid/Assignments-ML/tree/master/Preprocessing">Synthetic data generation using SMOTE</a>**
 
-*Tools: Python, Latex*
+*Tools: Python, Latex* 
 
 
