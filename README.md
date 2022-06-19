@@ -1,8 +1,8 @@
 # Data-Science-Portfolio
 
 # Professional
-    1. <a href="https://github.com/pramilajangid/Work-RenewPower">Renew Power (Jun 2021 - Mar 2022) as Machine Learning Engineer</a>
-    2. <a href="">Hewlett Packard Enterprises (Jun 2022 - Ongoing) as Data Scientist</a>
+   1. <a href="https://github.com/pramilajangid/Work-RenewPower">Renew Power (Jun 2021 - Mar 2022) as Machine Learning Engineer</a>
+   2. 2. <a href="">Hewlett Packard Enterprises (Jun 2022 - Ongoing) as Data Scientist</a>
     
 # Self
 
